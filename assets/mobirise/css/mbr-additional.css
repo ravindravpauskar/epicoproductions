@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 #ext_menu-2l .mbr-brand__name {
   font-size: 16px;
@@ -82,6 +83,15 @@
 #msg-box4-8 .mbr-article P {
   color: #000000;
 }
+#msg-box4-2u .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-2u .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2u .mbr-article {
+  color: #000000;
+}
 #features1-d P {
   font-size: 12px;
   text-align: left;
@@ -148,6 +158,12 @@
 }
 #contacts3-h P {
   color: #efefef;
+}
+
+#features1-v .mbr-section__col .mbr-header__text {
+  color: #4c6972;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-q .mbr-brand__name {
   font-size: 16px;
